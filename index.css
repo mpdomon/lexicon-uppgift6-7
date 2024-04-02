@@ -44,7 +44,17 @@ h1, h3 {
     margin-bottom: 50px;
 }
 
+.links a {
+    
+    font-size: 20px; 
+    color: rgb(117, 67, 10);
+    text-decoration: none;
+    margin:0 5px  50px 5px;
+}
 
+.links a:hover {
+    color: black;
+}
 
 footer {
     height: 50px;
