@@ -1,0 +1,57 @@
+body {
+    background-color: #5f8f8f;
+    margin: 0;
+
+}
+
+.c-div {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    min-height: calc(100vh - 125px);
+}
+nav {
+   
+    height: 75px;
+  
+}
+nav a {
+    margin:0 5px  0 5px;
+    text-decoration: none;
+    font-size: 23px;
+    color: rgb(117, 67, 10);
+    font-weight: 700;
+}
+
+nav a:hover {
+    color: black;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+.synopsis-text {
+    font-size: 20px;
+    width: 560px;
+    margin-bottom: 50px;
+}
+
+.trailer {
+    margin-bottom: 50px;
+}
+
+
+
+footer {
+    height: 50px;
+    background-color:rgb(165, 108, 42);
+    color: black;
+    display:flex;
+    align-items:center;
+    font-size: 14px;
+    padding-left: 10px;
+}
