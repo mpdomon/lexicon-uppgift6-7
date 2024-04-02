@@ -49,11 +49,15 @@ h1, h3 {
     font-size: 20px; 
     color: rgb(117, 67, 10);
     text-decoration: none;
-    margin:0 5px  50px 5px;
+    
 }
 
 .links a:hover {
     color: black;
+}
+
+li ul {
+    margin:0 5px  50px 5px;
 }
 
 footer {
